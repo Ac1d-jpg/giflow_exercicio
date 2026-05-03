@@ -3,7 +3,7 @@ name: Pipeline de CI
 on:
   push:
     branches:
-      - main
+      - develop
 
 jobs:
   version:
